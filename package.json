@@ -1,0 +1,26 @@
+{
+  "name": "@falleson/hoek",
+  "version": "1.0.0",
+  "description": "utilities tools",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallesonjs/hoek.git"
+  },
+  "keywords": [
+    "hoek",
+    "hapi"
+  ],
+  "author": "Luis Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallesonjs/hoek/issues"
+  },
+  "homepage": "https://github.com/fallesonjs/hoek#readme"
+}
